@@ -1,6 +1,6 @@
 ### 👋 Greetings
 
-I'm Ryan, and I'm currently a member of the Dash development team at Plotly, and the lead developer of Dash for R. I have also contributed to various Dash-related projects, including the Python and Julia versions of the framework.
+I'm Ryan, and currently a member of the Dash development team at Plotly, and the lead developer of Dash for R. I have also contributed to various Dash-related projects, including the Python and Julia versions of the framework.
 
 I am originally from [Tacoma](https://en.wikipedia.org/wiki/Tacoma,_Washington), though I now live in Montréal.
 
