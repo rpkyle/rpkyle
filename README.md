@@ -4,7 +4,7 @@ I'm Ryan, and currently a member of the Dash development team at Plotly, and the
 
 I am originally from [Tacoma](https://en.wikipedia.org/wiki/Tacoma,_Washington), though I now live in Montréal.
 
-I completed a B.S. in Cellular and Molecular Biology from the University of Washington, before working as a system administrator and IT manager for 7 years at the same institution. I later obtained a Master of Public Health from Emory University before relocating to :canada: to begin an epidemiology doctoral degree program at McGill University. If you're interested in checking out my publications, my Google Scholar profile is linked [here](https://scholar.google.com/citations?user=dEDsplMAAAAJ&hl=en&oi=ao).
+I completed a B.S. in Cellular and Molecular Biology from the University of Washington, before working as a system administrator and IT manager for 7 years at the same institution. I later obtained a Master of Public Health from Emory University before relocating to :canada: to begin an epidemiology doctoral degree program at McGill University. If you're interested in checking out my publications, my ORCID is [0000-0001-5829-9867](https://orcid.org/0000-0001-5829-9867) my Google Scholar profile is linked [here](https://scholar.google.com/citations?user=dEDsplMAAAAJ&hl=en&oi=ao).
 
 <!--
 **rpkyle/rpkyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
