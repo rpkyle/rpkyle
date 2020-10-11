@@ -2,7 +2,7 @@
 
 I'm Ryan, and currently a member of the Dash development team at Plotly. I have contributed to various Dash-related projects, including the Python, R and Julia versions of the framework. I am also the lead developer of [Dash for R](https://github.com/plotly/dashR), now available via [CRAN](https://cran.r-project.org/web/packages/dash/index.html).
 
-I am originally from [Tacoma](https://en.wikipedia.org/wiki/Tacoma,_Washington), though I now live in Montréal.
+I am originally from [Tacoma](https://en.wikipedia.org/wiki/Tacoma,_Washington), though I now live in [Montréal](https://en.wikipedia.org/wiki/Montreal).
 
 I completed a B.S. in Cellular and Molecular Biology from the University of Washington, before working as a system administrator and IT manager for 7 years at the same institution. I later obtained a Master of Public Health from Emory University before relocating to Canada to begin an epidemiology doctoral degree program at McGill University. If you're interested in checking out my publications, my ORCID is [0000-0001-5829-9867](https://orcid.org/0000-0001-5829-9867) and my Google Scholar profile is linked [here](https://scholar.google.com/citations?user=dEDsplMAAAAJ&hl=en&oi=ao).
 
