@@ -1,6 +1,6 @@
 ### 👋 Greetings
 
-I'm Ryan, and currently a member of the Dash development team at [Plotly](https://github.com/plotly). I have contributed to various Dash-related projects, including the [Python](https://github.com/plotly/dash), [R](https://github.com/plotly/dashR) and [Julia](https://github.com/plotly/Dash.jl) versions of the framework. I am also the lead developer of [Dash for R](https://github.com/plotly/dashR), now available via [CRAN](https://cran.r-project.org/web/packages/dash/index.html).
+I'm Ryan, and I enjoy programming and analyzing data in R, Python, and Julia. I am currently completing my PhD thesis and hope to defend my dissertation later this year. I contributed to various Dash-related projects while working as a developer at [Plotly](https://plotly.com), including the [Python](https://github.com/plotly/dash), [R](https://github.com/plotly/dashR) and [Julia](https://github.com/plotly/Dash.jl) versions of the framework. I was also the lead developer of [Dash for R](https://github.com/plotly/dashR), now available via [CRAN](https://cran.r-project.org/web/packages/dash/index.html).
 
 I am originally from [Tacoma](https://en.wikipedia.org/wiki/Tacoma,_Washington), though I now live in [Montréal](https://en.wikipedia.org/wiki/Montreal).
 
